@@ -1,0 +1,40 @@
+body {
+    background-color: #ECEFF2;
+    font-family: 'Hind Guntur', sans-serif;
+}
+.hero {
+    background-image:url(./assets/hero-photo.png) ;
+    height: 400px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.card {
+    border: 0px;
+
+}
+
+.form-select {
+    border: 0px;
+}
+
+.prote{
+    color: #EBBF99;
+}
+
+.carbo{
+    color: #DCAAA9;
+}
+
+.sugar{
+    color: #EBD886;
+}
+
+.cal{
+    color: #CAD5A9;
+}
+.fat{
+    color: #A9BFED;
+}
